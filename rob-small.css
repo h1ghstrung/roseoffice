@@ -1,0 +1,27 @@
+/* rob-small.css Rose Office Building CSS */
+
+form {
+	padding: 0rem;
+}
+
+.formInputs {
+	width: 95%;
+	margin-left: .1rem;
+	margin-bottom: 3px;
+}
+
+.panel {
+	max-width: 100%;
+	border: 1px solid #F36161;
+	background-color: rgba(55,53,53,0.66);
+	color: #F3E7E7;
+	margin: .1rem;
+	padding: .1rem;
+}
+
+#infopanel {
+
+}
+
+#contactpanel {
+}
