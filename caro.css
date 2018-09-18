@@ -257,11 +257,7 @@ html, body {
 }
 .carousel__slide:nth-of-type(1),
 .carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(1) {
-<<<<<<< HEAD
-  background-image: url("images/kitty.jpg");
-=======
   background-image: url("images/front_450x600.png");
->>>>>>> 77be578a140a9ee85a3201f4d06a8493d2a34c7b
   background-size: cover;
   background-position: center;
 }
