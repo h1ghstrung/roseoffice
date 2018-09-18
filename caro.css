@@ -257,7 +257,7 @@ html, body {
 }
 .carousel__slide:nth-of-type(1),
 .carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(1) {
-  background-image: url("images/face_450x600.jpg");
+  background-image: url("images/front_450x600.png");
   background-size: cover;
   background-position: center;
 }
