@@ -1,34 +1,4 @@
 /* rob.css Rose Office Building CSS */
-
-/*
-Notes:
-Base color #F36161
-High color #F3E7E7
-Mid color #EFAAAA
-Header Font: Lucida Calligraphy
-Header color: #F3E7E7
-
-Panel:
-	Border 1px solid #F36161
-	Background #373535 66% Opacity
-	Font color #F3E7E7
-	Bullet border 1px solid #EFAAAA
-	Bullet color #F36161
-	Bullet diameter 10px
-
-Carousel:
-	Active bullet:
-		Diameter 10px
-		Color #F36161
-	Other bullet:
-		Diameter 10px
-		Color #EFAAAA
-	Description area:
-		Font color: black
-		Border color: #EFAAAA
-		Desc Area color: white 43% opacity
-*/
-
 html {
 	height: 100%;
 }
